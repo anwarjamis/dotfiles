@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = anwarjamis@gmail.com
+	name = Anwar Jamis
