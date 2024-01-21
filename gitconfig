@@ -54,7 +54,7 @@
   defaultBranch = master
 [user]
 	email = anwarjamis@gmail.com
-	name = Anwar Jamis
+	name = anwar jamis
 [filter "lfs"]
 	clean = git-lfs clean -- %f
 	smudge = git-lfs smudge -- %f
